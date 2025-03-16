@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CVBuilder</string>
+    <string name="tvSubtitle">CV Builder</string>
+    <string name="btnProfilePic">Profile Picture</string>
+    <string name="btn_personal_details">Personal Details</string>
+    <string name="btn_preview_cv">Preview CV</string>
+    <string name="btn_references">References</string>
+    <string name="btn_certification">Certification</string>
+    <string name="btn_experience">Experience</string>
+    <string name="btn_education">Education</string>
+    <string name="btn_summary">Summary</string>
+</resources>
